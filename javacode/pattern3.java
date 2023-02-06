@@ -1,4 +1,4 @@
-class pattern3
+class pyramid
 {
   void patt(int n)
   {
@@ -18,7 +18,7 @@ class pattern3
   }
   public static void main(String args[])
   {
-    pattern3 obj = new pattern3();
+    pyramid obj = new pyramid();
     obj.patt(4);
   }
 }
